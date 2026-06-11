@@ -1,0 +1,22 @@
+
+.container{
+   max-width: 800px;
+   margin: 40px auto;
+   font-family: sans-serif }
+
+
+.inputCss
+{ display: flex; flex-direction: column; gap: 10px;
+   margin-bottom: 30px; padding: 20px; background-color: #f9f9f9; border-radius: 8px }
+
+.inputPadding
+{ padding: 8px }
+
+.btnCss
+{ display: flex; gap: 10px }
+
+
+.btnConfirmCss
+{ flex: 1; padding: 10px; background-color: #4CAF50; color: white; border: none; cursor: pointer}
+
+
